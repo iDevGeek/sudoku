@@ -1,0 +1,11 @@
+{
+	"name": "sudoku",
+	"version": "0.0.1",
+	"dependencies": {},
+	"scripts": {
+		"test": "jest --verbose"
+	},
+	"devDependencies": {
+		"jest": "^23.6.0"
+	}
+}
